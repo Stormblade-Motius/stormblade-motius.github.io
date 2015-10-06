@@ -5,7 +5,7 @@ date: {{ date }}
 modified:
 description:
 image:
-  feature:
+  feature: tempbanner.jpg
   credit:
   creditlink:
 share:
