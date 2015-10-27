@@ -1,3 +1,8 @@
+---
+layout: page
+title: Motius
+---
+
 name: Motius
 ability: Quantum
 curr_health: '28050'
