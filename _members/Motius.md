@@ -1,4 +1,3 @@
----
 name: Motius
 ability: Quantum
 curr_health: '28050'
@@ -22,4 +21,3 @@ gender: male
 personality: Comical
 id: '562971431023111'
 mentor: Batman
----
