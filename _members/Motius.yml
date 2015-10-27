@@ -1,22 +1,22 @@
 ---
 name: Motius
-curr_health: '9336'
-curr_power: '1000'
-health: '9336'
+curr_health: '28050'
+curr_power: '3948'
+health: '28050'
 level: '30'
-power: '1000'
+power: '3948'
 defense: '0'
-tough: '0'
-might: '0'
-precision: '396'
-restoration: '0'
-vital: '0'
-dominance: '0'
-skill: '126'
+tough: '11133'
+might: '5957'
+precision: '1865'
+restoration: '5616'
+vital: '2178'
+dominance: '981'
+skill: '127'
 origin: Tech
 movement: Acrobatics
 gender: male
 personality: Comical
 id: '562971431023111'
-mentor: Batman
+:mentor: Superman
 ---
