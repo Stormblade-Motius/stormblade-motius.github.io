@@ -1,0 +1,25 @@
+---
+name: PR GIRL23
+ability: Nature
+curr_health: '0'
+cr: '18'
+pvp: '0'
+curr_power: '2513'
+health: '4368'
+level: '22'
+power: '2513'
+defense: '2990'
+tough: '120'
+might: '2576'
+precision: '460'
+restoration: '1691'
+vital: '96'
+dominance: '58'
+skill: '30'
+origin: Meta
+movement: Super-Speed
+gender: female
+personality: Flirty
+id: '562949956522417'
+mentor: Superman
+---

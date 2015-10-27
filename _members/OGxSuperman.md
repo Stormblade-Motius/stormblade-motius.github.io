@@ -1,0 +1,25 @@
+---
+name: OGxSuperman
+ability: Quantum
+curr_health: '4720'
+cr: '27'
+pvp: '0'
+curr_power: '3181'
+health: '4720'
+level: '27'
+power: '3181'
+defense: '4002'
+tough: '0'
+might: '3231'
+precision: '591'
+restoration: '1972'
+vital: '252'
+dominance: '86'
+skill: '21'
+origin: Meta
+movement: Flight
+gender: male
+personality: Serious
+id: '562967136413310'
+mentor: Superman
+---
