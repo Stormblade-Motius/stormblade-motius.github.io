@@ -2,8 +2,8 @@
 name: toomee loomee
 ability: Fire
 curr_health: '5246'
-cr: '5246'
-pvp: '5246'
+cr: '30'
+pvp: '4'
 curr_power: '2445'
 health: '5246'
 level: '30'

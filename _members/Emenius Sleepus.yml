@@ -2,8 +2,8 @@
 name: Emenius Sleepus
 ability: Nature
 curr_health: '8764'
-cr: '8764'
-pvp: '8764'
+cr: '45'
+pvp: '10'
 curr_power: '1344'
 health: '8764'
 level: '30'

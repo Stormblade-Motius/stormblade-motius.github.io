@@ -2,8 +2,8 @@
 name: Yung Travler
 ability: Gadgets
 curr_health: '3442'
-cr: '3442'
-pvp: '3442'
+cr: '10'
+pvp: '0'
 curr_power: '1993'
 health: '3442'
 level: '10'

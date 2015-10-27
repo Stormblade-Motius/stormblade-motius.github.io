@@ -2,8 +2,8 @@
 name: Unathletic
 ability: Fire
 curr_health: '3067'
-cr: '3067'
-pvp: '3067'
+cr: '5'
+pvp: '0'
 curr_power: '1733'
 health: '3067'
 level: '9'

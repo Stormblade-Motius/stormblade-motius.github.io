@@ -2,8 +2,8 @@
 name: master ur
 ability: Ice
 curr_health: '2853'
-cr: '2853'
-pvp: '2853'
+cr: '4'
+pvp: '0'
 curr_power: '1365'
 health: '2853'
 level: '9'

@@ -2,8 +2,8 @@
 name: Izzer
 ability: Ice
 curr_health: '7550'
-cr: '7550'
-pvp: '7550'
+cr: '41'
+pvp: '0'
 curr_power: '2510'
 health: '7550'
 level: '30'

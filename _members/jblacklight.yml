@@ -2,8 +2,8 @@
 name: jblacklight
 ability: Nature
 curr_health: '3125'
-cr: '3125'
-pvp: '3125'
+cr: '6'
+pvp: '0'
 curr_power: '1552'
 health: '3125'
 level: '10'

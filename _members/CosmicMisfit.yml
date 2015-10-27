@@ -2,8 +2,8 @@
 name: CosmicMisfit
 ability: Nature
 curr_health: '2489'
-cr: '2489'
-pvp: '2489'
+cr: '5'
+pvp: '0'
 curr_power: '1493'
 health: '2489'
 level: '9'

@@ -2,8 +2,8 @@
 name: Toom Lantern
 ability: Light
 curr_health: '13379'
-cr: '13379'
-pvp: '13379'
+cr: '110'
+pvp: '0'
 curr_power: '4902'
 health: '13379'
 level: '30'

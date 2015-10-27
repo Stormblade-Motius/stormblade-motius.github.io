@@ -2,8 +2,8 @@
 name: Jickmind
 ability: Mental
 curr_health: '1990'
-cr: '1990'
-pvp: '1990'
+cr: '4'
+pvp: '0'
 curr_power: '1416'
 health: '1990'
 level: '9'

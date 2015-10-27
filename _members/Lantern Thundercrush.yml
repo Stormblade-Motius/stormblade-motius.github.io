@@ -2,8 +2,8 @@
 name: Lantern Thundercrush
 ability: Light
 curr_health: '2863'
-cr: '2863'
-pvp: '2863'
+cr: '6'
+pvp: '0'
 curr_power: '1602'
 health: '2863'
 level: '9'
