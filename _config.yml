@@ -53,8 +53,8 @@ paginate: 5
 
 #testing collections
 collections:
-  - members
-#    output: true
+  members:
+    output: true
 
 # Build settings
 #markdown: kramdown
