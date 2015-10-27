@@ -1,6 +1,9 @@
 ---
 name: CosmicMisfit
+ability: Nature
 curr_health: '2489'
+cr: '2489'
+pvp: '2489'
 curr_power: '1493'
 health: '2489'
 level: '9'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Powerful
 id: '562980021089075'
-:mentor: Superman
+mentor: Wonder Woman
 ---

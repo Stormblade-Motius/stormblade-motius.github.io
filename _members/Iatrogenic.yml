@@ -1,6 +1,9 @@
 ---
 name: Iatrogenic
+ability: Rage
 curr_health: '15520'
+cr: '15520'
+pvp: '15520'
 curr_power: '4539'
 health: '15520'
 level: '30'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Primal
 id: '562971431077584'
-:mentor: Superman
+mentor: Wonder Woman
 ---

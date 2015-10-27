@@ -1,6 +1,9 @@
 ---
 name: Toom Lantern
+ability: Light
 curr_health: '13379'
+cr: '13379'
+pvp: '13379'
 curr_power: '4902'
 health: '13379'
 level: '30'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Powerful
 id: '562984316104460'
-:mentor: Superman
+mentor: Wonder Woman
 ---

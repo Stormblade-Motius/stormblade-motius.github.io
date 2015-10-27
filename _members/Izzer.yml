@@ -1,6 +1,9 @@
 ---
 name: Izzer
+ability: Ice
 curr_health: '7550'
+cr: '7550'
+pvp: '7550'
 curr_power: '2510'
 health: '7550'
 level: '30'
@@ -18,5 +21,5 @@ movement: Acrobatics
 gender: male
 personality: Primal
 id: '562975726182755'
-:mentor: Superman
+mentor: Batman
 ---

@@ -1,6 +1,9 @@
 ---
 name: Lantern Thundercrush
+ability: Light
 curr_health: '2863'
+cr: '2863'
+pvp: '2863'
 curr_power: '1602'
 health: '2863'
 level: '9'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Serious
 id: '562980021136587'
-:mentor: Superman
+mentor: Wonder Woman
 ---

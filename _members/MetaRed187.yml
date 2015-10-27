@@ -1,6 +1,9 @@
 ---
 name: MetaRed187
+ability: Rage
 curr_health: '9851'
+cr: '9851'
+pvp: '9851'
 curr_power: '3862'
 health: '9851'
 level: '30'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Powerful
 id: '562962840348225'
-:mentor: Superman
+mentor: Superman
 ---

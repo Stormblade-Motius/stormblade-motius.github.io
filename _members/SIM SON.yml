@@ -1,6 +1,9 @@
 ---
 name: SIM SON
+ability: Quantum
 curr_health: '8619'
+cr: '8619'
+pvp: '8619'
 curr_power: '3262'
 health: '8619'
 level: '30'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Powerful
 id: '562971430237911'
-:mentor: Superman
+mentor: Wonder Woman
 ---

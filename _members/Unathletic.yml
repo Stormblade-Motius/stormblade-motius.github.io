@@ -1,6 +1,9 @@
 ---
 name: Unathletic
+ability: Fire
 curr_health: '3067'
+cr: '3067'
+pvp: '3067'
 curr_power: '1733'
 health: '3067'
 level: '9'
@@ -18,5 +21,5 @@ movement: Super-Speed
 gender: male
 personality: Comical
 id: '562984316337370'
-:mentor: Superman
+mentor: Batman
 ---

@@ -1,6 +1,9 @@
 ---
 name: Yung Travler
+ability: Gadgets
 curr_health: '3442'
+cr: '3442'
+pvp: '3442'
 curr_power: '1993'
 health: '3442'
 level: '10'
@@ -18,5 +21,5 @@ movement: Flight
 gender: male
 personality: Serious
 id: '562962841447320'
-:mentor: Superman
+mentor: Batman
 ---

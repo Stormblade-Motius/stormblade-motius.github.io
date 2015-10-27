@@ -1,6 +1,9 @@
 ---
 name: jblacklight
+ability: Nature
 curr_health: '3125'
+cr: '3125'
+pvp: '3125'
 curr_power: '1552'
 health: '3125'
 level: '10'
@@ -18,5 +21,5 @@ movement: Acrobatics
 gender: male
 personality: Powerful
 id: '562967136328977'
-:mentor: Superman
+mentor: Batman
 ---
