@@ -36,8 +36,14 @@
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
+      <div style="width:33%; float:left;">
+        <div><b> Name: </b></div>
+      </div>
+      <div style="width:33%, float:left;">
+        <p> page.name </p>
+      </div>
      <!-- {{ content }} -->
-     <p>  Name: {{ page.name }} </p>
+<!--     <p>  Name: {{ page.name }} </p>
      <p>  Mentor: {{ page.mentor }} </p>
      <p>  Gender: {{ page.gender }} </p>
      <p>  Personality: {{ page.personality }} </p>
@@ -55,7 +61,7 @@
      <p>  Restoration: {{ page.restoration }} </p>
      <p>  Vitalization: {{ page.vital }}  </p>
      <p>  Dominance: {{ page.dominance }} </p>
-     <p>  Skill Points: {{ page.skill }} </p>
+     <p>  Skill Points: {{ page.skill }} </p> -->
       <footer class="entry-meta">
         {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
         <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
