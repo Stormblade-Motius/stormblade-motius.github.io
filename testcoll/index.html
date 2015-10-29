@@ -3,26 +3,9 @@ layout: page
 title: ""
 ---
 <ul>
+  <p> Guild Roster: </p>
   {% for thing in site.members %}
-    <p> Name: {{ thing.name }}</p>
-    <p> Superpower: {{ thing.ability }}</p>
-    <p> Combat Rating: {{ thing.cr }}</p>
-    <p> PVP CR: {{ thing.pvp }}</p>
-    <p> Level: {{ thing.level }}</p>
-    <p> Skill Points: {{ thing.skill }}</p>
-    <p> Mentor: {{ thing.:mentor }}</p>
-    <p> Gender: {{ thing.gender }}</p>
-    <p> Hit Points: {{ thing.health }}</p>
-    <p> Power: {{ thing.power }}</p>
-    <p> Defense: {{ thing.defense }}</p>
-    <p> Toughness: {{ thing.tough }}</p>
-    <p> Might: {{ thing.might }}</p>
-    <p> Precision: {{ thing.precision }}</p>
-    <p> Restoration:{{ thing.restoration }}</p>
-    <p> Vitalization: {{ thing.vital }}</p>
-    <p> Dominance: {{ thing.dominance }}</p>
-    <p> Movement: {{ thing.movement }}</p>
-    <p> Personality: {{ thing.personality }}</p>
+    <p> <a href="http://stormblade-motius.github.io/members/"{{ thing.name }}> {{ thing.name }} </a></p>
     <p>  --------------- </p>
 
   {% endfor %}
