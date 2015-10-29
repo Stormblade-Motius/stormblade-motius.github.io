@@ -22,4 +22,5 @@ gender: male
 personality: Comical
 id: '562958546453960'
 mentor: Superman
+layout: mem 
 ---

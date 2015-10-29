@@ -4,7 +4,7 @@ ability: Rage
 curr_health: '9851'
 cr: '76'
 pvp: '0'
-curr_power: '3862'
+curr_power: '4008'
 health: '9851'
 level: '30'
 power: '4008'
@@ -22,4 +22,5 @@ gender: male
 personality: Powerful
 id: '562962840348225'
 mentor: Superman
+layout: mem 
 ---

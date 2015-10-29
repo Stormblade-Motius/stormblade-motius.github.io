@@ -22,4 +22,5 @@ gender: male
 personality: Serious
 id: '562980021136587'
 mentor: Wonder Woman
+layout: mem 
 ---

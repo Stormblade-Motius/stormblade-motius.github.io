@@ -22,4 +22,5 @@ gender: male
 personality: Serious
 id: '562962841447320'
 mentor: Batman
+layout: mem 
 ---

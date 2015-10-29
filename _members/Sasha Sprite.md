@@ -1,25 +1,26 @@
 ---
 name: Sasha Sprite
-ability: Gadgets
-curr_health: '18695'
+ability: Mental
+curr_health: '18055'
 cr: '142'
 pvp: '99'
-curr_power: '6866'
-health: '18695'
+curr_power: '6722'
+health: '18055'
 level: '30'
-power: '6866'
+power: '6722'
 defense: '15624'
 tough: '440'
-might: '11884'
-precision: '3974'
-restoration: '5761'
-vital: '2638'
-dominance: '58'
-skill: '165'
+might: '11334'
+precision: '3797'
+restoration: '5495'
+vital: '2593'
+dominance: '55'
+skill: '166'
 origin: Tech
 movement: Acrobatics
 gender: female
 personality: Flirty
 id: '562980020912551'
 mentor: Batman
+layout: mem 
 ---

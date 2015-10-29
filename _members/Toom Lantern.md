@@ -22,4 +22,5 @@ gender: male
 personality: Powerful
 id: '562984316104460'
 mentor: Wonder Woman
+layout: mem 
 ---

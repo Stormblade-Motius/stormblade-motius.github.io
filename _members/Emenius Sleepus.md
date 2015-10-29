@@ -22,4 +22,5 @@ gender: male
 personality: Flirty
 id: '562975726340855'
 mentor: Wonder Woman
+layout: mem 
 ---

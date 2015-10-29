@@ -22,4 +22,5 @@ gender: male
 personality: Comical
 id: '562958545252055'
 mentor: Batman
+layout: mem 
 ---

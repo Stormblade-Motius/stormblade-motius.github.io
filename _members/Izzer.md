@@ -22,4 +22,5 @@ gender: male
 personality: Primal
 id: '562975726182755'
 mentor: Batman
+layout: mem 
 ---

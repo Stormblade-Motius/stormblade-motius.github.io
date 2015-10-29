@@ -22,4 +22,5 @@ gender: male
 personality: Primal
 id: '562971431077584'
 mentor: Wonder Woman
+layout: mem 
 ---

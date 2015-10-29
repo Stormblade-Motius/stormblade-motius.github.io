@@ -22,4 +22,5 @@ gender: female
 personality: Flirty
 id: '562971431191039'
 mentor: Superman
+layout: mem 
 ---

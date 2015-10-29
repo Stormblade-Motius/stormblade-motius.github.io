@@ -22,4 +22,5 @@ gender: male
 personality: Powerful
 id: '562984316037515'
 mentor: Batman
+layout: mem 
 ---

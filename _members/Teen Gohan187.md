@@ -22,4 +22,5 @@ gender: male
 personality: Serious
 id: '562949956059139'
 mentor: Superman
+layout: mem 
 ---
